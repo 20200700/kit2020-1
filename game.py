@@ -7,5 +7,6 @@ if number == 1:
     print("오른쪽으로 이동")
 if number == 2:
     print("왼쪽으로 이동")
-#else print("바꾸기")
-
+if number == 3:
+    print("블록 바꾸기")
+ 
